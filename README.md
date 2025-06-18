@@ -41,7 +41,7 @@ Here’s what I’m currently learning and building:
 ## 📬 Connect with Me
 
 - [LinkedIn](https://www.linkedin.com/in/shreenandbhattad)  
-- [📄 View My Resume](#) <!-- Replace this with your actual resume link -->
+- [📄 View My Resume]([#](https://github.com/Shreenandbhattad/shreenandbhattad/blob/main/Resume.pdf)) <!-- Replace this with your actual resume link -->
 
 ---
 
