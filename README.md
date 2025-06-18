@@ -1,6 +1,6 @@
 # Shreenand Bhattad
 
-**🎓 Undergraduate | Computer Science & Entrepreneurial Leadership | Ashoka University**
+**🎓 Undergraduate | Computer Science, Economics Minor & Entrepreneurial Leadership | Ashoka University**
 
 I'm a student and researcher passionate about translating technical depth into practical solutions. Currently pursuing my B.Sc. at Ashoka University, I’ve worked on research projects in health informatics, led tech teams, and contributed to full-stack development efforts.
 
@@ -14,7 +14,8 @@ I’m particularly excited by work that lives at the intersection of data, algor
 - 📊 Data Science & Statistical Modeling  
 - 📈 Quantitative Finance & Algorithmic Trading  
 - 💬 Large Language Models & Applied NLP  
-- ⚙️ Computational Systems & Product Engineering
+- ⚙️ Computational Systems & Product Engineering  
+- 💹 Exploring the intersection of Computer Science and Financial Systems  
 
 ---
 
@@ -41,7 +42,7 @@ Here’s what I’m currently learning and building:
 ## 📬 Connect with Me
 
 - [LinkedIn](https://www.linkedin.com/in/shreenandbhattad)  
-- [📄 View My Resume]([#](https://github.com/Shreenandbhattad/shreenandbhattad/blob/main/Resume.pdf)) <!-- Replace this with your actual resume link -->
+- [📄 View My Resume](https://github.com/Shreenandbhattad/shreenandbhattad/blob/main/Resume.pdf)
 
 ---
 
