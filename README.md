@@ -1,6 +1,6 @@
 # Shreenand Bhattad
 
-** Undergraduate | Computer Science, Economics Minor & Entrepreneurial Leadership | Ashoka University**
+**Undergraduate | Computer Science, Economics Minor & Entrepreneurial Leadership | Ashoka University**
 
 I'm a student and researcher passionate about translating technical depth into practical solutions. Currently pursuing my B.Sc. at Ashoka University, I’ve worked on research projects in health informatics, led tech teams, and contributed to full-stack development efforts.
 
